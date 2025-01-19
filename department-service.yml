@@ -8,7 +8,7 @@ spring:
     username: root
     password: myadmin123
     driverClassName: com.mysql.jdbc.Driver
-  message: hello world, Patrick, demo spring cloud bus
+  message: hello world, Patrick, Demo spring cloud bus with actuator /busrefresh
 
 eureka:
   instance:
