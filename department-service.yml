@@ -8,6 +8,7 @@ spring:
     username: root
     password: myadmin123
     driverClassName: com.mysql.jdbc.Driver
+  message: hello, Patrick
 
 eureka:
   instance:
